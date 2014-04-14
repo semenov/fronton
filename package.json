@@ -1,0 +1,16 @@
+{
+  "name": "fronton",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vlad Semenov",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "connect": "~2.14.4",
+    "cli-color": "~0.2.3",
+    "proxy-middleware": "~0.5.0"
+  }
+}

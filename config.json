@@ -1,0 +1,10 @@
+{
+	"port": 80,
+	"apps": [
+		{
+			"name": "Test App",
+			"domain": "test.app",
+			"path": "/Users/semenov/Dropbox/dev/test-app"
+		}
+	]
+}
